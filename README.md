@@ -1,5 +1,3 @@
-﻿# Relearning Selenium with Java
+﻿# Relearning Java with Java 11
 
-My first experience with Selenium, a web testing/automation framework, was in my summer internship as a Software Developer. There I had to learn to use the framework using Ruby. I did learn enough Ruby to complete the tasks given to me throughout my internship, however I figured it would be better to widen my horizon and learn the framework with Java as well. 
-
-I would like to showcase my growth with the framework and language here in case anyone is interested.
+I have had some experience with Java in the past but it has been some time so I wanted to refresh and relearn the language. I will be placing any sort of Java material I have learned throughout my course here from beginning to end in order to show my improvement. I have also decided to relearn Selenium with Java since I believe the two would be beneficial for me to know.
