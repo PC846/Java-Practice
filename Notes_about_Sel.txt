@@ -1,0 +1,20 @@
+# I like to write notes sometimes in order to remind the future me of
+certain things about frameworks, languages, APIs, etc.
+
+
+
+Java is preferred for Selenium (and for a number of other things I am sure)
+because it is architecture neutral aka did not depend on any platform
+
+JIT (just in time) improve JVM (Java Virtual machine)
+
+Write once and run anywhere!
+
+Webdriver
+|_> RC, Cross-platform testing framework, directly communicates with
+browser.
+
+
+SOP (same origin policy) security measure to restrict scripts
+RC tricks server -> merged with Webdriver (proxy server)
+
